@@ -1,0 +1,16 @@
+.logo{
+    width: 78px;
+    height: 78px;
+    margin: 0 20px;
+}
+
+.exerciseAnchor{
+    text-decoration: none;
+    color: #dacaca;
+}
+
+.homeLink{
+    text-decoration: none;
+    color : #dacaca;
+    border-bottom:3px solid #aa9e9e ;
+}
